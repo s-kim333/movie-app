@@ -31,4 +31,9 @@ In the project directory, run `npm i prop-types`
 3. Passing propTypes
 4. Protect propTypes
 
+## Screenshot of working
+Hompage \ 
+![image](https://user-images.githubusercontent.com/64014524/122301814-8caff680-cf44-11eb-8cf8-0c688865ed47.png)
+
+Working progress can be checked via commit history.
 
